@@ -1,0 +1,37 @@
+[
+    {
+        "product_name": "Espresso Cuppuccino",
+        "product_desc": "A traditional cappuccino has an even distribution of espresso, steamed milk, and foamed milk. A latte has more steamed milk and a light layer of foam. A cappuccino is distinctly layered, while in a latte the espresso and steamed milk are mixed together.",
+        "product_subtext": "Dark Roast",
+        "product_price": 57,
+        "img_path": "assets/products/product5.png"
+    },
+    {
+        "product_name": "Caffe Mocha Americano",
+        "product_desc": "A traditional cappuccino has an even distribution of espresso, steamed milk, and foamed milk. A latte has more steamed milk and a light layer of foam. A cappuccino is distinctly layered, while in a latte the espresso and steamed milk are mixed together.",
+        "product_subtext": "Low Roast",
+        "product_price": 67,
+        "img_path": "assets/products/product4.png"
+    },
+    {
+        "product_name": "latte macchiato",
+        "product_desc": "A traditional cappuccino has an even distribution of espresso, steamed milk, and foamed milk. A latte has more steamed milk and a light layer of foam. A cappuccino is distinctly layered, while in a latte the espresso and steamed milk are mixed together.",
+        "product_subtext": "Medium Roast",
+        "product_price": 38,
+        "img_path": "assets/products/product3.png"
+    },
+    {
+        "product_name": "Vanilla Cuppuccino",
+        "product_desc": "A traditional cappuccino has an even distribution of espresso, steamed milk, and foamed milk. A latte has more steamed milk and a light layer of foam. A cappuccino is distinctly layered, while in a latte the espresso and steamed milk are mixed together.",
+        "product_subtext": "Decaf Pike",
+        "product_price": 8,
+        "img_path": "assets/products/product2.png"
+    },
+    {
+        "product_name": "Choco Cuppuccino",
+        "product_desc": "A traditional cappuccino has an even distribution of espresso, steamed milk, and foamed milk. A latte has more steamed milk and a light layer of foam. A cappuccino is distinctly layered, while in a latte the espresso and steamed milk are mixed together.",
+        "product_subtext": "Dark Roast",
+        "product_price": 12,
+        "img_path": "assets/products/product1.png"
+    }
+]
